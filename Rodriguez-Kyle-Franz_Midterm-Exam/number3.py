@@ -29,7 +29,6 @@ class leWindow(QMainWindow):
         self.lebutton.setGeometry(40, 100, 150, 25)
     
     def textbox(self):
-
         self.textbox1 = QLineEdit(self)
         self.textbox1.setGeometry(200, 60, 150, 25)
         self.textbox2 = QLineEdit(self)
