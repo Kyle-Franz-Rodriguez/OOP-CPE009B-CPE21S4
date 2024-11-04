@@ -16,7 +16,7 @@ class leWindow(QMainWindow):
 
     
     def body(self):
-        self.setWindowTitle("Special Midterm Exam in OOP")
+        self.setWindowTitle("Midterm in OOP")
         self.resize(400, 200)
         self.coloredbutton()
         self.textbox()
